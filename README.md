@@ -4,7 +4,7 @@ My codeforces solutions, compiled resources, and anything remotely related.
 
 College is the most useless thing ever.
 
-#📚 Resources For Learning
+# 📚 Resources For Learning
 
 ### ⬜️ Books In Progress
 - Introduction To Algorithms 
