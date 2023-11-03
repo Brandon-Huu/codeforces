@@ -24,5 +24,7 @@ College is the most useless thing ever.
 - Advanced Algorithms
     - Neetcode.io
 
+### Courses Dropped
 - Algorithms and data structures
     - [A&DS English Course](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
+    - Reason: Lot's of dead air. "Writes code on paper"
