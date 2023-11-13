@@ -17,12 +17,12 @@ College is the most useless thing ever.
     - Adnan Aziz
 
 ### ✅Completed Courses
-- Algorithms and Data Structures for Beginners
-    - Neetcode.io
+- Neetcode.io
+  - Algorithms and Data Structures for Beginners
+  - Advanced Algorithms
 
 ### ⬜️ Courses In Progress
-- Advanced Algorithms
-    - Neetcode.io
+
 
 ### Courses Dropped
 - Algorithms and data structures
